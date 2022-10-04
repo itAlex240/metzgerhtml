@@ -1,0 +1,36 @@
+<html>
+
+<head>
+
+<title>Hotel Vallora</title>
+
+
+</head>
+
+<body>
+
+Willkommen auf der Webseite vom Hotel Vallora!
+
+
+Bei Ihrem n&auml;chsten Aufenthalt in unserer Gegend
+w&uuml;rden wir Sie gern pers&uuml;nlich begr&uuml;&szlig;en und
+mit unserem freundlichen und kompetenten Service
+verw&uuml;hnen.
+
+Zimmerreservierungen:
+
+Unsere Rezeption ist 24 Stunden besetzt. Sie k&uuml;nnen auch
+gern unser Online-Buchungsformular ausf&uuml;llen.
+
+Tel. 000 000 000<br>
+Fax 000 000 000<br>
+E-Mail: info@hotelvallora.com
+
+Hier k&ouml;nnen Sie sich f&uuml;r unseren Newsletter anmelden
+
+</body>
+
+</html>
+
+
+
